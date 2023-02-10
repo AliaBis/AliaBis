@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jupyter Notebook-black?style=for-the-badge&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Machine Learning-blue?style=for-the-badge&logo=Python&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/PostgreSQL-purple?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-red?style=for-the-badge&logo=HTML5&logoColor=green"/>
+<img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=Python&logoColor=black"/>
 
 
