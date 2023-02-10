@@ -10,7 +10,10 @@
 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=HTML5&logoColor=green"/> <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/API-orange?style=for-the-badge&logo=API&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/по ходу обучения еще запишу-пкуут?style=for-the-badge&logo=API&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit-learn-пкуут?style=for-the-badge&logo=API&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikitlearn-пкуут?style=for-the-badge&logo=API&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter Notebook-black?style=for-the-badge&logo=Python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine Learning-blue?style=for-the-badge&logo=Python&logoColor=black"/>
 
 
 
