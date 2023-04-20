@@ -2,7 +2,7 @@
 
 <h1 align="center">Привет! Меня зовут <a href="https://github.com/AliaBis" target="_blank">Алия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я — Backend-разработчик  и специалист Data Science:computer:</h3>
+<h3 align="center">Я — Python-разработчик  и специалист Data Science:computer:</h3>
 
 
 
