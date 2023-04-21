@@ -19,3 +19,9 @@
 <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scrapy-blue?style=for-the-badge&logo=Python&logoColor=black"/>
+
+
+## Контакты
+
+[<img src="https://github.com/AliaBis/AliaBis/blob/main/telegram.jpg">](https://t.me/Alia_Bis)
+[<img src="https://github.com/AliaBis/AliaBis/blob/main/ya.png">](mailto:aliabisengalieva@yandex.ru)
