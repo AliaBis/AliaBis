@@ -23,5 +23,5 @@
 
 ## Контакты
 
-[<img src="https://github.com/AliaBis/AliaBis/blob/main/telegram.jpg">](https://t.me/Alia_Bis)
-[<img src="https://github.com/AliaBis/AliaBis/blob/main/ya.png">](mailto:aliabisengalieva@yandex.ru)
+[<img src="https://github.com/AliaBis/AliaBis/blob/main/telegram.jpg" width="90px" height="90px">](https://t.me/Alia_Bis)
+[<img src="https://github.com/AliaBis/AliaBis/blob/main/ya.png" width="90px" height="90px">](mailto:aliabisengalieva@yandex.ru)
