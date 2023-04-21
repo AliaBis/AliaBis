@@ -15,5 +15,5 @@
 [<img src="https://github.com/AliaBis/AliaBis/blob/main/telegram.jpg" width="70px" height="70px">](https://t.me/Alia_Bis) [<img src="https://github.com/AliaBis/AliaBis/blob/main/ya.png" width="70px" height="70px">](mailto:aliabisengalieva@yandex.ru)
 
 ## Мой блог-канал
-[<img src="(https://github.com/AliaBis/AliaBis/blob/main/blog.png)" width="70px" height="70px">](https://t.me/pythonsha)
+[<img src="https://github.com/AliaBis/AliaBis/blob/main/blog.jpg" width="70px" height="70px">](https://t.me/pythonsha)
 
